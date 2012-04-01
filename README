@@ -1,0 +1,9 @@
+2012-04-01 dl1bff:
+
+
+UP4DAR Display
+--------------
+
+This program listens on UDP port 45232 for remote display packets
+from a UP4DAR board and displays them on the screen.
+
