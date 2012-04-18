@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: UPDisplayA
+Specification-Title: UPDisplayA
+Specification-Version: 1.0
+Specification-Vendor: dl1bff@mdx.de
+Implementation-Title: UPDisplayA
+Implementation-Vendor: dl1bff@mdx.de
+Implementation-Version: 20120418
